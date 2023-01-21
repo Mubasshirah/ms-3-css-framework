@@ -1,0 +1,8 @@
+.rela{
+    position: relative;
+}
+.abso{
+    position: absolute;
+    top: 61%;
+    left: 32%;
+}

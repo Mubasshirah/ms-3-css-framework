@@ -1,0 +1,8 @@
+cdn:content delivery network
+
+bootstrap dia responsive korar 5 steps:
+   container 
+   row 
+   column
+   breakpoints
+   12 columns with breakpoints
